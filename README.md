@@ -12,12 +12,18 @@ product-center          31003
 memeber-center          31005
 
 #hub项目
+
 product-hub             32000
 
 #api项目
+
 product-api-rest        33000
 
 #公共服务项目
+
 diamond-server          8080
+
 zz-config-server        8888
+
 zz-api-server           9999
+
