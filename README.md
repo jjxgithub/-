@@ -11,6 +11,8 @@ product-center          31003
 
 memeber-center          31005
 
+credit-center           31006
+
 #hub项目
 
 product-hub             32000
